@@ -1,6 +1,6 @@
 [package]
 name = "small-card-deck"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A simple card deck library"
 license = "GPL-3.0"
